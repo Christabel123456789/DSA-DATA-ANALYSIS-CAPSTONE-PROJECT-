@@ -1,6 +1,5 @@
 # DSA-DATA-ANALYSIS-CAPSTONE-PROJECT-
 
-# DSA-Data-Analysis-Capstone-Project
 ## Project Topic: Amazon Product Review Analysis
 
 This project is part of my DSA Data Analysis Capstone. It involves:
